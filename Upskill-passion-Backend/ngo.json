@@ -1,0 +1,53 @@
+{
+  "authorization": [
+    {
+      "name": "Women's Empowerment NGO",
+      "DOB": "20 April 2001",
+      "email": "women_empowerment@gmail.com",
+      "pswd": "Upskill-passion",
+      "type": "recruiter"
+    },
+    {
+      "name": "Sustainable Living Foundation",
+      "DOB": "20 April 2001",
+      "email": "sustainable_living@gmail.com",
+      "pswd": "Upskill-passion",
+      "type": "recruiter"
+    },
+    {
+      "name": "Mental Health Foundation",
+      "DOB": "20 April 2001",
+      "email": "mental_health@gmail.com",
+      "pswd": "Upskill-passion",
+      "type": "recruiter"
+    },
+    {
+      "name": "Environmental Conservation",
+      "DOB": "20 April 2001",
+      "email": "environment_conservation@gmail.com",
+      "pswd": "Upskill-passion",
+      "type": "recruiter"
+    },
+    {
+      "name": "Youth Empowerment NGO",
+      "DOB": "20 April 2001",
+      "email": "youth_empowerment@gmail.com",
+      "pswd": "Upskill-passion",
+      "type": "recruiter"
+    },
+    {
+      "name": "Healthcare NGO",
+      "DOB": "20 April 2001",
+      "email": "health_care@gmail.com",
+      "pswd": "Upskill-passion",
+      "type": "recruiter"
+    },
+    {
+      "name": "Food Security NGO",
+      "DOB": "20 April 2001",
+      "email": "fod_security@gmail.com",
+      "pswd": "Upskill-passion",
+      "type": "recruiter"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "name": "Aarav Sharma",
+      "DOB": "1992-05-11",
+      "email": "aarav.sharma@gmail.com",
+      "pswd": "Aarav#1234"
+    },
+    {
+      "name": "Aashna Patel",
+      "DOB": "1994-08-25",
+      "email": "aashna.patel@gmail.com",
+      "pswd": "Aashna#1234"
+    },
+    {
+      "name": "Aayush Singh",
+      "DOB": "1993-03-17",
+      "email": "aayush.singh@gmail.com",
+      "pswd": "Aayush#1234"
+    },
+    {
+      "name": "Aditi Gupta",
+      "DOB": "1991-12-06",
+      "email": "aditi.gupta@gmail.com",
+      "pswd": "Aditi#1234"
+    },
+    {
+      "name": "Advaita Joshi",
+      "DOB": "1992-07-19",
+      "email": "advaita.joshi@gmail.com",
+      "pswd": "Advaita#1234"
+    },
+    {
+      "name": "Alok Mehta",
+      "DOB": "1990-09-28",
+      "email": "alok.mehta@gmail.com",
+      "pswd": "Alok#1234"
+    },
+    {
+      "name": "Amita Patel",
+      "DOB": "1991-04-14",
+      "email": "amita.patel@gmail.com",
+      "pswd": "Amita#1234"
+    },
+    {
+      "name": "Anaya Bhatia",
+      "DOB": "1993-01-07",
+      "email": "anaya.bhatia@gmail.com",
+      "pswd": "Anaya#1234"
+    },
+    {
+      "name": "Anika Shah",
+      "DOB": "1994-06-20",
+      "email": "anika.shah@gmail.com",
+      "pswd": "Anika#1234"
+    },
+    {
+      "name": "Anjali Singh",
+      "DOB": "1990-11-12",
+      "email": "anjali.singh@gmail.com",
+      "pswd": "Anjali#1234"
+    },
+    {
+      "name": "Anshu Gupta",
+      "DOB": "1991-08-30",
+      "email": "anshu.gupta@gmail.com",
+      "pswd": "Anshu#1234"
+    },
+    {
+      "name": "Aravind Nair",
+      "DOB": "1992-02-23",
+      "email": "aravind.nair@gmail.com",
+      "pswd": "Aravind#1234"
+    },
+    {
+      "name": "Arya Menon",
+      "DOB": "1993-09-13",
+      "email": "arya.menon@gmail.com",
+      "pswd": "Arya#1234"
+    },
+    {
+      "name": "Aryan Kapoor",
+      "DOB": "1991-05-03",
+      "email": "aryan.kapoor@gmail.com",
+      "pswd": "Aryan#1234"
+    },
+    {
+      "name": "Ashna Nair",
+      "DOB": "1992-12-22",
+      "email": "ashna.nair@gmail.com",
+      "pswd": "Ashna#1234"
+    },
+    {
+      "name": "Avi Mehta",
+      "DOB": "1994-07-15",
+      "email": "avi.mehta@gmail.com",
+      "pswd": "Avi#1234"
+    },
+    {
+      "name": "Ayush Gupta",
+      "DOB": "1993-04-06",
+      "email": "ayush.gupta@gmail.com",
+      "pswd": "Ayush#1234"
+    },
+    {
+      "name": "Bhavya Singh",
+      "DOB": "1990-10-02",
+      "email": "bhavya.singh@gmail.com",
+      "pswd": "Bhavya#1234"
+    },
+    {
+      "name": "Chaitali Patel",
+      "DOB": "1991-02-18",
+      "email": "chaitali.patel@gmail.com",
+      "pswd": "Chaitali#1234"
+    },
+    {
+      "name": "Dhruv Shah",
+      "DOB": "1992-09-23",
+      "email": "dhruv.shah@gmail.com",
+      "pswd": "Dhruv#1234"
+    },
+    {
+      "name": "Divya Singh",
+      "DOB": "1994-04-14",
+      "email": "divya.singh@gmail.com",
+      "pswd": "Divya#1234"
+    },
+    {
+      "name": "Ekta Patel",
+      "DOB": "1993-11-05",
+      "email": "ekta.patel@gmail.com",
+      "pswd": "Ekta#1234"
+    },
+    {
+      "name": "Gaurav Sharma",
+      "DOB": "1991-06-28",
+      "email": "gaurav.sharma@gmail.com",
+      "pswd": "Gaurav#1234"
+    },
+    {
+      "name": "Hansika Patel",
+      "DOB": "1990-12-15",
+      "email": "hansika.patel@gmail.com",
+      "pswd": "Hansika#1234"
+    },
+    {
+      "name": "Ishaan Gupta",
+      "DOB": "1992-08-17",
+      "email": "ishaan.gupta@gmail.com",
+      "pswd": "Ishaan#1234"
+    },
+    {
+      "name": "Jaspreet Kaur",
+      "DOB": "1993-05-09",
+      "email": "jaspreet.kaur@gmail.com",
+      "pswd": "Jaspreet#1234"
+    },
+    {
+      "name": "Kartik Patel",
+      "DOB": "1994-10-12",
+      "email": "kartik.patel@gmail.com",
+      "pswd": "Kartik#1234"
+    },
+    {
+      "name": "Kavya Singh",
+      "DOB": "1991-07-24",
+      "email": "kavya.singh@gmail.com",
+      "pswd": "Kavya#1234"
+    },
+    {
+      "name": "Krishna Gupta",
+      "DOB": "1993-02-14",
+      "email": "krishna.gupta@gmail.com",
+      "pswd": "Krishna#1234"
+    },
+    {
+      "name": "Manav Sharma",
+      "DOB": "1990-05-20",
+      "email": "manav.sharma@gmail.com",
+      "pswd": "Manav#1234"
+    },
+    {
+      "name": "Neha Patel",
+      "DOB": "1992-12-07",
+      "email": "neha.patel@gmail.com",
+      "pswd": "Neha#1234"
+    },
+    {
+      "name": "Om Mehta",
+      "DOB": "1994-07-01",
+      "email": "om.mehta@gmail.com",
+      "pswd": "Om#1234"
+    },
+    {
+      "name": "Palak Gupta",
+      "DOB": "1993-03-10",
+      "email": "palak.gupta@gmail.com",
+      "pswd": "Palak#1234"
+    },
+    {
+      "name": "Prachi Singh",
+      "DOB": "1990-09-05",
+      "email": "prachi.singh@gmail.com",
+      "pswd": "Prachi#1234"
+    },
+    {
+      "name": "Raj Patel",
+      "DOB": "1991-01-22",
+      "email": "raj.patel@gmail.com",
+      "pswd": "Raj#1234"
+    },
+    {
+      "name": "Riya Shah",
+      "DOB": "1992-08-07",
+      "email": "riya.shah@gmail.com",
+      "pswd": "Riya#1234"
+    },
+    {
+      "name": "Rohit Singh",
+      "DOB": "1994-03-14",
+      "email": "rohit.singh@gmail.com",
+      "pswd": "Rohit#1234"
+    },
+    {
+      "name": "Saachi Patel",
+      "DOB": "1993-11-11",
+      "email": "saachi.patel@gmail.com",
+      "pswd": "Saachi#1234"
+    },
+    {
+      "name": "Sahil Gupta",
+      "DOB": "1991-06-06",
+      "email": "sahil.gupta@gmail.com",
+      "pswd": "Sahil#1234"
+    },
+    {
+      "name": "Sakshi Singh",
+      "DOB": "1990-12-29",
+      "email": "sakshi.singh@gmail.com",
+      "pswd": "Sakshi#1234"
+    },
+    {
+      "name": "Samir Sharma",
+      "DOB": "1992-09-18",
+      "email": "samir.sharma@gmail.com",
+      "pswd": "Samir#1234"
+    },
+    {
+      "name": "Sangeeta Patel",
+      "DOB": "1994-04-21",
+      "email": "sangeeta.patel@gmail.com",
+      "pswd": "Sangeeta#1234"
+    },
+    {
+      "name": "Shivam Gupta",
+      "DOB": "1993-01-30",
+      "email": "shivam.gupta@gmail.com",
+      "pswd": "Shivam#1234"
+    },
+    {
+      "name": "Simran Kaur",
+      "DOB": "1991-07-12",
+      "email": "simran.kaur@gmail.com",
+      "pswd": "Simran#1234"
+    },
+    {
+      "name": "Sonal Patel",
+      "DOB": "1990-11-01",
+      "email": "sonal.patel@gmail.com",
+      "pswd": "Sonal#1234"
+    },
+    {
+      "name": "Sudhir Sharma",
+      "DOB": "1992-06-15",
+      "email": "sudhir.sharma@gmail.com",
+      "pswd": "Sudhir#1234"
+    },
+    {
+      "name": "Suhana Khan",
+      "DOB": "1994-02-17",
+      "email": "suhana.khan@gmail.com",
+      "pswd": "Suhana#1234"
+    },
+    {
+      "name": "Suraj Gupta",
+      "DOB": "1993-10-09",
+      "email": "suraj.gupta@gmail.com",
+      "pswd": "Suraj#1234"
+    },
+    {
+      "name": "Tanvi Patel",
+      "DOB": "1991-04-26",
+      "email": "tanvi.patel@gmail.com",
+      "pswd": "Tanvi#1234"
+    },
+    {
+      "name": "Tanya Singh",
+      "DOB": "1990-08-23",
+      "email": "tanya.singh@gmail.com",
+      "pswd": "Tanya#1234"
+    },
+    {
+      "name": "Uday Mehta",
+      "DOB": "1992-05-03",
+      "email": "uday.mehta@gmail.com",
+      "pswd": "Uday#1234"
+    },
+    {
+      "name": "Varsha Patel",
+      "DOB": "1993-12-14",
+      "email": "varsha.patel@gmail.com",
+      "pswd": "Varsha#1234"
+    },
+    {
+      "name": "Vidhi Shah",
+      "DOB": "1991-02-28",
+      "email": "vidhi.shah@gmail.com",
+      "pswd": "Vidhi#1234"
+    },
+    {
+      "name": "Vikram Singh",
+      "DOB": "1994-09-07",
+      "email": "vikram.singh@gmail.com",
+      "pswd": "Vikram#1234"
+    },
+    {
+      "name": "Yash Gupta",
+      "DOB": "1990-04-19",
+      "email": "yash.gupta@gmail.com",
+      "pswd": "Yash#1234"
+    },
+    {
+      "name": "Zoya Khan",
+      "DOB": "1993-07-26",
+      "email": "zoya.khan@gmail.com",
+      "pswd": "Zoya#1234"
+    }
+  ]
+}
