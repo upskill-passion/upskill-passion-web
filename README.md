@@ -9,6 +9,7 @@ npm run dev
 Open Another terminal
 ```shell
 cd ./upskill-passion-frontend
+npm i
 npm run dev
 
 ```
