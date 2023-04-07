@@ -78,3 +78,6 @@ Right now the project is in it's most basic state with very few features. We hop
  
  We hope to develop this as a platform where anyone can seek guidance for their career, and ask question about their careers. A platform where students can learn about various proffessions and look fore resources which can help him, and if there is any NGO providing training or course for that. 
 <!--We hope to achieve that by using donations from industry, if only we could build an infrastructure where NGO's can get fundings from industry, and help students to get their dream jobs. Companies can tell NGO's there requirements and NGO's can train students according to their needs, it seems very far fetched but anything can be achieved -->
+
+## Contact
+In case of any issue or any feedback or suggestions, please feel free to reach me at 202051169@iiitvadodara.ac.in
